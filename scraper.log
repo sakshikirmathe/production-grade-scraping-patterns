@@ -1,0 +1,11 @@
+2026-03-21 10:41:36 | INFO | Scraping page 1: https://quotes.toscrape.com/page/1/
+2026-03-21 10:41:38 | INFO | Extracted 10 quotes from page 1
+2026-03-21 10:41:39 | INFO | Scraping page 2: https://quotes.toscrape.com/page/2/
+2026-03-21 10:41:41 | INFO | Extracted 10 quotes from page 2
+2026-03-21 10:41:42 | INFO | Scraping page 3: https://quotes.toscrape.com/page/3/
+2026-03-21 10:41:43 | INFO | Extracted 10 quotes from page 3
+2026-03-21 10:41:44 | INFO | Scraping page 4: https://quotes.toscrape.com/page/4/
+2026-03-21 10:41:46 | INFO | Extracted 10 quotes from page 4
+2026-03-21 10:41:47 | INFO | Scraping page 5: https://quotes.toscrape.com/page/5/
+2026-03-21 10:41:49 | INFO | Extracted 10 quotes from page 5
+2026-03-21 10:41:50 | INFO | Scraping job completed.
